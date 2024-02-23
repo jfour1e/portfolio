@@ -1,3 +1,4 @@
 # add the following to _config.yml file
+#fix theme - throws error 
 title: JAMES FOURIE
 theme: jeykll-theme-minimal
