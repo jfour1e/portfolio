@@ -1,6 +1,7 @@
 # add the following to _config.yml file
 #fix theme - throws error 
 title: JAMES FOURIE
+logo: IMG_8680.jpg
 theme: jekyll-theme-minimal
 
 
