@@ -1,4 +1,4 @@
-# Aspiring Business Analyst 
+# Aspiring Quantitative Analyst 
 
 ### Technical Skills: Python (Pandas, Tensorflow, Numpy), Git and Github, Excel, HTML/CSS
 
