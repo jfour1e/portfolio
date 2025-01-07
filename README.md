@@ -9,17 +9,18 @@
 ### Projects 
 
 **Dual Horizon Regime Detection in Commodity Futures: A Hybrid GMM-HMM Framework** 
-- Using Volatility and event-driven data, built a trading strategy using a hybrid framework that combines Gaussian Mixture Models (GMMs) for long-term trend detection with Hidden Markov Models (HMMs) for identifying short-term regime shifts
+- Using Volatility and event-driven data, built a regime switching trading strategy using Hidden Markov Models (HMMs) for identifying short-term regime shifts for commodity markets. 
 - The strategy dynamically adjusts positions based on identified market regimes, optimizing asset allocation to capture favorable trends while minimizing exposure during high-risk periods.
 - Over the past year, it has backtested returns exceeding the market by roughly 25% demonstrating its effectiveness in adapting to varying market conditions.
-- Implemented a flask app to handle broker RestAPI requests for continuously automated trading. Currently live trading. 
+- Implemented configuration support with broker RestAPI requests for continuously automated trading. Currently live trading. 
 
 
 **Natural Language Processing Trading Bot** 
 - Built and trained a Bidirectional Encoder Representations from Transformers (BERT) language model to web scrape news from CapitalIQ to aid in short term sentiment analysis and earnings trading.
 - Resulting trained model has 92.3% accuracy on validation data set. 
-● Built a separate Deep Neural Network to identify sentiment change patterns for companies to identify favorable buy / sell opportunities. 
-● Beta feature (currently implementing): Consistently updated the portfolio based on
+● Built a separate Deep Neural Network to identify sentiment change patterns for companies to identify favorable buy / sell opportunities.
+● Bactested returns are approximately 6% over the last two months trading.
+● Bata feature (currently implementing): Consistently updated the portfolio based on
 adapting market conditions and any reversing sentiment in stocks or the overall market.
 
 
