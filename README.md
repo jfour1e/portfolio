@@ -8,7 +8,7 @@
 
 ### Projects 
 
-**Dual Horizon Regime Detection in Commodity Futures: A Hybrid GMM-HMM Framework** 
+**Regime Detection in Commodity Futures: An HMM Framework** 
 - Using Volatility and event-driven data, built a regime switching trading strategy using Hidden Markov Models (HMMs) for identifying short-term regime shifts for commodity markets. 
 - The strategy dynamically adjusts positions based on identified market regimes, optimizing asset allocation to capture favorable trends while minimizing exposure during high-risk periods.
 - Over the past year, it has backtested returns exceeding the market by roughly 25% demonstrating its effectiveness in adapting to varying market conditions.
