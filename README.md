@@ -49,7 +49,7 @@ Probabilistic Modeling • Portfolio Optimization • Machine Learning in Financ
 
 [GitHub Repository](https://github.com/jfour1e/SBI-for-Diffusion-Models)  
 
--- 
+---
 
 ### 4. Regime Detection in Commodity Futures with Hidden Markov Models 
 **Gold & Silver, 15-Minute Data, 2010–2024**
