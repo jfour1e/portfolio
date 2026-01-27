@@ -10,8 +10,7 @@ Probabilistic Modeling • Portfolio Optimization • Machine Learning in Financ
 
 ## Education 
 - B.A in Applied Mathematics | Boston University (2023-2027) 
-- B.S in Data Sciences | Boston University (2023-2027)
-GPA: 3.70 / 4.0   
+- B.S in Data Sciences | Boston University (2023-2027) 
 
 ## Selected Projects 
 
