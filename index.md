@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # James Fourie
 
 Applied Mathematics & Data Science @ Boston University  
