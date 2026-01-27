@@ -4,7 +4,7 @@ Applied Mathematics & Data Science @ Boston University
 Probabilistic Modeling • Portfolio Optimization • Machine Learning in Finance 
 
 📍 Boston, MA  
-📧 [jfourie@bu.edu] | 🔗 [https://www.linkedin.com/in/jfourie1/] | 💻 [https://github.com/jfour1e]
+📧 [jfourie@bu.edu] | 🔗 [Linkedin](https://www.linkedin.com/in/jfourie1/) | 💻 [Github](https://github.com/jfour1e)
 
 ---
 
